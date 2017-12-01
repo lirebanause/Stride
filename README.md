@@ -68,6 +68,7 @@ Das war tatsächlich nicht so einfach, jedoch nicht aufgrund der Komplexität de
 KeyDown "left" mit einer turn-Methode verlinken zu können, und dann klappt es super.
 Jedoch musste mich Nele auch mehr oder weniger mit dem Kopf darauf stoßen.
 
+![KeyboardControl](https://github.com/lirebanause/Stride/blob/master/images/KeyControlling.PNG)
 
 ![TomatoPickUp](https://github.com/lirebanause/Stride/blob/master/images/TomatoPickUp.png)
 
