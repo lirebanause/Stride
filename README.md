@@ -70,5 +70,10 @@ Jedoch musste mich Nele auch mehr oder weniger mit dem Kopf darauf stoßen.
 
 ![KeyboardControl](https://github.com/lirebanause/Stride/blob/master/images/KeyControlling.PNG)
 
+#### 8. Tomaten sammeln
+
+Nun geht es daran, den Greep die Tomaten tatsächlich aufheben zu lassen.
+Man soll, wie in der Aufgabe beschrieben, das Bild des Actors ändern, verbunden mit einer if-clause. Ich arbeite noch daran, mit einer Variable dafür zu sorgen, dass es nicht bei nur einer Tomate auf seinem Rücken bleibt. Ein Ziel von drei Tomaten tops sollte am besten passen.
+
 ![TomatoPickUp](https://github.com/lirebanause/Stride/blob/master/images/TomatoPickUp.png)
 
