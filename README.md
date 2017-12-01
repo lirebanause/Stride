@@ -69,5 +69,5 @@ KeyDown "left" mit einer turn-Methode verlinken zu können, und dann klappt es s
 Jedoch musste mich Nele auch mehr oder weniger mit dem Kopf darauf stoßen.
 
 
-
+![TomatoPickUp](https://github.com/lirebanause/Stride/blob/master/images/TomatoPickUp.png)
 
