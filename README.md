@@ -23,7 +23,9 @@ Der Actor bewegt sich in einer Endlosschleife vorwärts und variiert in den Wink
     
 Und dann wieder von vorne. Ob der Actor automatisch dreht, wenn er auf eine Wand stößt, oder ob die Distances genau abgestimmt sind, weiß ich nicht. Oder natürlich, ich habe komplett unrecht und der Code ist sehr viel komplexer.
 
-Habe gerade erfahren, dass der ganze Code noch von Nele und Marit ist, und, dass die eigentliche Aufgabe ist, den Code selbst zu schreiben und nicht den bestehenden zu analysieren...
+![Meet the Greeps](https://github.com/lirebanause/Stride/blob/master/images/Actor%2BMap.PNG)
+
+Habe gerade erfahren, dass der ganze Code noch von Nele und Marit ist, und, dass die eigentliche Aufgabe ist, den Code selbst zu schreiben, und nicht den bestehenden zu analysieren...
 
 Ohne Code passiert dementsprechend natürlich nichts.
 
@@ -58,7 +60,7 @@ So soll erstens das Drehen an der Wand ein wenig mehr smooth werden und zweitens
 ###### Nun zur eigentlichen Aufgabe:
 
 Ich habe erneut eine if-clause verwendet: if_isTouching(Tomato.class) und diese Funktion removeTouching(Tomato.class) eingesetzt.
-So werden die Tomaten entfernt, wenn sie berührt werden. Das war die Aufgabe. Wie ich es jedoch schaffen soll, dass der Actor die Tomaten mitnimmt, was wahrscheinlich noch eine aufgabe sein wird, weiß ich noch nicht.
+So werden die Tomaten entfernt, wenn sie berührt werden. Das war die Aufgabe. Wie ich es jedoch schaffen soll, dass der Actor die Tomaten mitnimmt, was wahrscheinlich noch eine Aufgabe sein wird, weiß ich noch nicht.
 
 
 
