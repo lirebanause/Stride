@@ -62,5 +62,12 @@ So soll erstens das Drehen an der Wand ein wenig mehr smooth werden und zweitens
 Ich habe erneut eine if-clause verwendet: if_isTouching(Tomato.class) und diese Funktion removeTouching(Tomato.class) eingesetzt.
 So werden die Tomaten entfernt, wenn sie berührt werden. Das war die Aufgabe. Wie ich es jedoch schaffen soll, dass der Actor die Tomaten mitnimmt, was wahrscheinlich noch eine Aufgabe sein wird, weiß ich noch nicht.
 
+#### 7. Keyboard Control
+
+Das war tatsächlich nicht so einfach, jedoch nicht aufgrund der Komplexität des Texts, sondern aufgrund von Kleinigkeiten und aufgrund der verblüffenden Einfachheit des Programms. Nachdem ich mit Code,org gearbeitet hatte, habe ich nun nicht erwartet, einfach 
+KeyDown "left" mit einer turn-Methode verlinken zu können, und dann klappt es super.
+Jedoch musste mich Nele auch mehr oder weniger mit dem Kopf darauf stoßen.
+
+
 
 
