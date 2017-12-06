@@ -82,6 +82,7 @@ Man soll, wie in der Aufgabe beschrieben, das Bild des Actors ändern, verbunden
 
 Nun soll in _"Fields"_ eine Variable zum zählen der Tomaten eingefügt werden. Das habe ich allerdings schon getan. Was genau die jedoch tut, bzw. was sie bringt, weiß ich noch nicht sicher. Ich vermute, dass es dazu da ist, den Bildwechsel des Actors zu kontrollieren, also bei einer aufgehobnenen Tomate das Bild des Greeps mit einer Tomate und bei der zweiten den Greep mit zwei Tomaten einzusetzen, usw. . Ich habe den Wert der Variable jedoch von 0 auf 1 geändert. So weit kann ich jedoch keine Änderung im Programm feststellen.
 
+![CountingVariable](https://github.com/lirebanause/Stride/blob/master/images/Counting%20Variable.PNG)
 
 
 
