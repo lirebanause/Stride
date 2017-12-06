@@ -84,6 +84,10 @@ Nun soll in _"Fields"_ eine Variable zum zählen der Tomaten eingefügt werden. 
 
 ![CountingVariable](https://github.com/lirebanause/Stride/blob/master/images/Counting%20Variable.PNG)
 
+#### 10.
+
+Ich soll nun das Bild des Actors mit der Variable verbinden. Ich kämpfe noch damit, aber die Stunde ist jetzt zu Ende. Nächste Stunde wird gegoogelt.
+
 
 
 
