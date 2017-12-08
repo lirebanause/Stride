@@ -1,6 +1,6 @@
 # Stride
 
-Das hier wird also ein Neuanfang. Ich werde einfach die zehn Tutorials abschließen, um einen Überblick über Stride zu bekommen. Anschließend werde ich, vorausgesetzt, dass ich dann noch Zeit habe, das ein oder andere Szenario aus dem Buch versuchen, zu programmieren.
+Ich werde einfach die zehn Tutorials abschließen, um einen Überblick über Stride zu bekommen. Anschließend werde ich, vorausgesetzt, dass ich dann noch Zeit habe, das ein oder andere Szenario aus dem Buch versuchen, zu programmieren.
 
 ### Das Zehn-Schritt-Tutorial
 
@@ -84,9 +84,19 @@ Nun soll in _"Fields"_ eine Variable zum zählen der Tomaten eingefügt werden. 
 
 ![CountingVariable](https://github.com/lirebanause/Stride/blob/master/images/Counting%20Variable.PNG)
 
+Es ist nicht, jedenfalls nicht nur die _"Fields"_-Methode nötig. Mir ist nun klar, was tatsächlich von mir verlangt wird und wie ich besagtes umsetzen kann:
+
+![CountingVariable 2](https://github.com/lirebanause/Stride/blob/master/images/Counting%20Variable%202.PNG)
+
+Wenn man nun nach 3 eingesammelten Tomaten den Actor anklickt und inspiziert, kann man die Anzahl der eingesammelten Tomaten
+(also z.B. 3) sehen.
+
+
 #### 10.
 
-Ich soll nun das Bild des Actors mit der Variable verbinden. Ich kämpfe noch damit, aber die Stunde ist jetzt zu Ende. Nächste Stunde wird gegoogelt.
+Das Bild des Actors soll nun entsprechend der Anzahl der aufgesammelten Tomaten verändert werden. Die Anzahl der gesammelten Tomaten wird definiert durch _private int tomatoes_ . Diese Funktion in eine if-clause einzubauen, was glaube ich, der Weg ist, kriege ich bis jetzt noch nicht hin.
+
+
 
 
 
