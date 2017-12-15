@@ -2,7 +2,7 @@
 
 Ich werde einfach die zehn Tutorials abschließen, um einen Überblick über Stride zu bekommen. Anschließend werde ich, vorausgesetzt, dass ich dann noch Zeit habe, das ein oder andere Szenario aus dem Buch versuchen, zu programmieren.
 
-### Das Zehn-Schritt-Tutorial
+### Der Greep
 
 Ich werde mich zur Abwechslung mal genau an die Aufgaben halten und gründlich vorgehen. Also:
 
@@ -107,7 +107,24 @@ Wie man sehen kann, habe ich jeweils eine neue _if-clause_ für die beiden Bilde
 Damit ist die Lernaktivität #1 abgeschlossen.
 
 
+### FatCat
 
+#### 1. Der Cheat Sheet 
 
+Als erstes wird der Cheat Sheet eingeführt, etwas spät für meine Begriffe, weil ich ihn die ganze Greep-Aktivität hindurch benutzt habe.
+Er war auch bei mir von Anfang an geöffnet, was vielleicht gar nicht hätte sein sollen. So ist diese Aufgabe jedoch größtenteils obsolet.
+
+Meine Beobachtungen sind, dass sich der Cheat Sheet in verschiedenen Umgebungen/ Zeilen verändert. Demnach sind also nicht alle Commands in allen Frames anwendbar.
+
+#### Neuen Inhalt einfügen und wieder löschen
+
+Leere Zeilen, Methoden etc. sind mit der Esc.-Taste wieder zu löschen. Zeilen mit Text können jedoch nicht mit selbiger gelöscht werden. Es muss entweder der Text entfernt oder die Zeile an sich mit der Backspace-Taste gelöscht werden.
+Des Weiteren kann eine Zeile durch Rechtsklick und folgend Delete gelöscht werden.
+
+#### Quelltext vorübergehend deaktivieren
+
+Verschiedene Zeilen können markiert und durch Rechtsklick und folgend "Disable" deaktiviert werden und auf selbem Wege, jedoch auf "Enable" wieder aktiviert werden.
+
+#### Welche Methoden stehen zur Verfügung ?
 
 
