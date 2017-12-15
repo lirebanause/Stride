@@ -96,6 +96,14 @@ Wenn man nun nach 3 eingesammelten Tomaten den Actor anklickt und inspiziert, ka
 
 Das Bild des Actors soll nun entsprechend der Anzahl der aufgesammelten Tomaten verändert werden. Die Anzahl der gesammelten Tomaten wird definiert durch _private int tomatoes_ . Diese Funktion in eine if-clause einzubauen, was glaube ich, der Weg ist, kriege ich bis jetzt noch nicht hin.
 
+Die Anzahl der aufgesammelten Tomaten als Bedingung in einer _if-clause_ ist durch _"=="_ festgelegt. So kann ich die Anzahl der Tomaten mit einer Zahl **gleichsetzen**.
+
+![SetImageControls](https://github.com/lirebanause/Stride/blob/master/images/SetImageControls.png)
+
+Wie man sehen kann, habe ich jeweils eine neue _if-clause_ für die beiden Bilder "greep-with-food" und "greep-with-more-food" erstellt und für ersteres den Wert _1_ und für drei aufgesammelten Tomaten den Wert _3_ eingesetzt. Folgendes ist das Resultat:
+
+![Greep with more Food](https://github.com/lirebanause/Stride/blob/master/images/Greep%20with%20more%20food.png)
+
 
 
 
