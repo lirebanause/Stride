@@ -104,6 +104,8 @@ Wie man sehen kann, habe ich jeweils eine neue _if-clause_ für die beiden Bilde
 
 ![Greep with more Food](https://github.com/lirebanause/Stride/blob/master/images/Greep%20with%20more%20food.png)
 
+Damit ist die Lernaktivität #1 abgeschlossen.
+
 
 
 
