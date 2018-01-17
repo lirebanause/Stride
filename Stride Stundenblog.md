@@ -4,7 +4,7 @@ Ich werde einfach die zehn Tutorials abschließen, um einen Überblick über Str
 
 ### Der Greep
 
-Ich werde mich zur Abwechslung mal genau an die Aufgaben halten und gründlich vorgehen. Also:
+Der Greep wird in der ersten Reihe an Tutorials als Actor fungieren. An ihm werden sich die Aufgaben orientieren.
 
 #### 1. Tutorial
 
@@ -112,7 +112,7 @@ Damit ist die Lernaktivität #1 abgeschlossen.
 #### 1. Der Cheat Sheet 
 
 Als erstes wird der Cheat Sheet eingeführt, etwas spät für meine Begriffe, weil ich ihn die ganze Greep-Aktivität hindurch benutzt habe.
-Er war auch bei mir von Anfang an geöffnet, was vielleicht gar nicht hätte sein sollen. So ist diese Aufgabe jedoch größtenteils obsolet.
+Er war jedoch auch bei mir von Anfang an geöffnet, was anscheinend gar nicht hätte sein sollen. So ist diese Aufgabe jedoch größtenteils obsolet.
 
 Meine Beobachtungen sind, dass sich der Cheat Sheet in verschiedenen Umgebungen/ Zeilen verändert. Demnach sind also nicht alle Commands in allen Frames anwendbar.
 
@@ -127,4 +127,16 @@ Verschiedene Zeilen können markiert und durch Rechtsklick und folgend "Disable"
 
 #### Welche Methoden stehen zur Verfügung ?
 
+Wenn man die Maus auf _inherited from Actor_ bewegt, dann zeigen sich allgemeine Funktionen wie z.B. _move_ oder _turn_. Das sind also Commands, die jede Art von Actor, nicht nur die FatCat, beherrscht.
 
+_Inherited from Cat_ jedoch enthält spezifische Befehle für die FatCat, wie z.B. _dance_ oder _isHungry_.
+
+Es gibt also einen Speicher, wenn man es so nennen möchte, indem die grundlegenen Befehle selbst programmiert sind. Es wird also dem Befehl _move_ die tatsächliche Bewegung des Actors als Bedeutung gegeben. Diese grundlegenen Befehle werden automatisch in jedes neue Szenario eingefügt, sodass der Actor mit diesen Commands gesteuert werden kann, so scheint es.
+
+Der Pfeilkopf nach _extends Cat_ enthält, was die _Inherited from Cat_-Commands angeht, so wie es aussieht, weitesgehend das gleiche.
+_Inherited from Actor_ jedoch scheint sehr viel umfangreicher.
+Während _Inherited from Cat_ an beiden Stellen die gleiche Anzahl an Commands beinhaltet, sind bei _extends Cat_ mit 25 Commands damit zehn mehr als in der ersten Auflistung (mit Links_Click auf den Actor).
+
+##### Bird's eye
+
+Wenn man auf **Bird's eye** clickt, fasst sich der Quelltext zu seinen Funktionen zusammen. Wenn man nun auf das guckt, was dabei herauskommt, ähnelt das Resultat sehr _Inherited from Cat_. Eine _walk_-Funktion existiert jedoch noch neben _walk left_ und _walk right_, im Gegensatz zur _Inherited from Cat_-Auflistung.
