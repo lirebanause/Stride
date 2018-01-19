@@ -107,7 +107,7 @@ Wie man sehen kann, habe ich jeweils eine neue _if-clause_ für die beiden Bilde
 Damit ist die Lernaktivität #1 abgeschlossen.
 
 
-### FatCat
+### Lernaktivität 2 (FatCat 1.0)
 
 #### 1. Der Cheat Sheet 
 
@@ -140,3 +140,23 @@ Während _Inherited from Cat_ an beiden Stellen die gleiche Anzahl an Commands b
 ##### Bird's eye
 
 Wenn man auf **Bird's eye** clickt, fasst sich der Quelltext zu seinen Funktionen zusammen. Wenn man nun auf das guckt, was dabei herauskommt, ähnelt das Resultat sehr _Inherited from Cat_. Eine _walk_-Funktion existiert jedoch noch neben _walk left_ und _walk right_, im Gegensatz zur _Inherited from Cat_-Auflistung.
+
+
+#### Automatische Quelltextergänzung
+
+Wenn man innerhalb einer Methode Ctrl+Space drückt, dann erscheint ein Fenster mit Methoden, welche verwendet werden können.
+Wenn ich nun _I_ drücke, wird das Ergebnis gefiltert. Alles, was mit I anfängt, wird angezeigt.
+
+Dies war die letzte Aufgabe (außer: eine Methode auswählen und wieder entfernen) dieser Lernaktivität.
+
+
+### Lernaktivität 3 (FatCat 2.0)
+
+Ich kopiere die Methode _Essen_ in _MyCat_. Die true/false-clauses habe ich noch rausgelassen, sonst kann ich auch gleich alles kopieren und einfügen. Ich glaube, das ist nicht der Sinn der Aufgabe.
+Um die Katze tanzen zu lassen, deaktiviere ich die Essen-Methode und kopiere die Tanzen-Methode in _MyCat_. Um sie anschließend schlafen zu lassen und dieses Vorgehen im Loop zu arrangieren, werde ich beides in eine Methode tun, sodass sie chronlogisch im Loop ablaufen. Der Wert für die Dauers des Schlafens ist als _HowLong_ angegeben. Ich ersetze ihn probeweise durch 10.
+
+Nun tanzt die Katze einmal ihre "Choreographie" und schläft anschließend 10 "zzz- Schnarcher" lang. Dann beginnt es von vorn.
+
+##### Eigene Routine
+
+Ich werde nun also versuchen, die Katze im Wechsel tanzen, schlafen und essen zu lassen. Hierfür werde ich die Dauer der Tanzeinlagen verlängern.
