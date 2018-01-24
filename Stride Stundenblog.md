@@ -34,6 +34,8 @@ Habe gerade erfahren, dass der ganze Code noch von Nele und Marit ist, und, dass
 
 Ohne Code passiert dementsprechend natürlich nichts.
 
+### Zweite Stunde
+
 ##### 2.
 
 Ich habe nun eine Move-Methode eingesetzt. Folglich bewegt sich der Actor geradeaus.
@@ -67,7 +69,7 @@ So soll erstens das Drehen an der Wand ein wenig mehr smooth werden und zweitens
 Ich habe erneut eine if-clause verwendet: if_isTouching(Tomato.class) und diese Funktion removeTouching(Tomato.class) eingesetzt.
 So werden die Tomaten entfernt, wenn sie berührt werden. Das war die Aufgabe. Wie ich es jedoch schaffen soll, dass der Actor die Tomaten mitnimmt, was wahrscheinlich noch eine Aufgabe sein wird, weiß ich noch nicht.
 
-### Zweite Stunde
+### Dritte Stunde
 
 #### 7. Keyboard Control
 
@@ -84,6 +86,7 @@ Man soll, wie in der Aufgabe beschrieben, das Bild des Actors ändern, verbunden
 
 ![TomatoPickUp](https://github.com/lirebanause/Stride/blob/master/images/TomatoPickUp.png)
 
+### Vierte Stunde
 
 #### 9. Tomaten zählen
 
@@ -98,7 +101,7 @@ Es ist nicht, jedenfalls nicht nur die _"Fields"_-Methode nötig. Mir ist nun kl
 Wenn man nun nach 3 eingesammelten Tomaten den Actor anklickt und inspiziert, kann man die Anzahl der eingesammelten Tomaten
 (also z.B. 3) sehen.
 
-### Dritte Stunde
+### Fünfte Stunde
 
 #### 10.
 
@@ -114,6 +117,7 @@ Wie man sehen kann, habe ich jeweils eine neue _if-clause_ für die beiden Bilde
 
 Damit ist die Lernaktivität #1 abgeschlossen.
 
+### Sechste Stunde
 
 ### Lernaktivität 2 (FatCat 1.0)
 
@@ -133,6 +137,8 @@ Des Weiteren kann eine Zeile durch Rechtsklick und folgend Delete gelöscht werd
 
 Verschiedene Zeilen können markiert und durch Rechtsklick und folgend "Disable" deaktiviert werden und auf selbem Wege, jedoch auf "Enable" wieder aktiviert werden.
 
+### Siebte Stunde
+
 #### Welche Methoden stehen zur Verfügung ?
 
 Wenn man die Maus auf _inherited from Actor_ bewegt, dann zeigen sich allgemeine Funktionen wie z.B. _move_ oder _turn_. Das sind also Commands, die jede Art von Actor, nicht nur die FatCat, beherrscht.
@@ -145,7 +151,7 @@ Der Pfeilkopf nach _extends Cat_ enthält, was die _Inherited from Cat_-Commands
 _Inherited from Actor_ jedoch scheint sehr viel umfangreicher.
 Während _Inherited from Cat_ an beiden Stellen die gleiche Anzahl an Commands beinhaltet, sind bei _extends Cat_ mit 25 Commands damit zehn mehr als in der ersten Auflistung (mit Links_Click auf den Actor).
 
-
+### Achte Stunde
 
 ##### Bird's eye
 
@@ -159,14 +165,10 @@ Wenn ich nun _I_ drücke, wird das Ergebnis gefiltert. Alles, was mit I anfängt
 
 Dies war die letzte Aufgabe (außer: eine Methode auswählen und wieder entfernen) dieser Lernaktivität.
 
+### 9. Stunde
 
 ### Lernaktivität 3 (FatCat 2.0)
 
-Ich kopiere die Methode _Essen_ in _MyCat_. Die true/false-clauses habe ich noch rausgelassen, sonst kann ich auch gleich alles kopieren und einfügen. Ich glaube, das ist nicht der Sinn der Aufgabe.
-Um die Katze tanzen zu lassen, deaktiviere ich die Essen-Methode und kopiere die Tanzen-Methode in _MyCat_. Um sie anschließend schlafen zu lassen und dieses Vorgehen im Loop zu arrangieren, werde ich beides in eine Methode tun, sodass sie chronlogisch im Loop ablaufen. Der Wert für die Dauers des Schlafens ist als _HowLong_ angegeben. Ich ersetze ihn probeweise durch 10.
 
-Nun tanzt die Katze einmal ihre "Choreographie" und schläft anschließend 10 "zzz- Schnarcher" lang. Dann beginnt es von vorn.
 
-##### Eigene Routine
 
-Ich werde nun also versuchen, die Katze im Wechsel tanzen, schlafen und essen zu lassen. Hierfür werde ich die Dauer der Tanzeinlagen verlängern.
