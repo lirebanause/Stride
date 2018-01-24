@@ -169,6 +169,6 @@ Dies war die letzte Aufgabe (außer: eine Methode auswählen und wieder entferne
 
 ### Lernaktivität 3 (FatCat 2.0)
 
-!(https://github.com/lirebanause/Stride/blob/master/images/Unbenannt.PNG)[Cat code]
+![Cat code](https://github.com/lirebanause/Stride/blob/master/images/Unbenannt.PNG)
 
 
