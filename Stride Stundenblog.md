@@ -169,6 +169,8 @@ Dies war die letzte Aufgabe (außer: eine Methode auswählen und wieder entferne
 
 ### Lernaktivität 3 (FatCat 2.0)
 
+Die Klasse _MyCat_ ist eine Art DNA der FatCat. In ihr sind alle Aktionen, die die Katze durchführen kann, vorprogrammiert, sodass relativ komplexe Aktionen wie Tanzen unter einem einfachen Command _dance_ zusammengefasst sind.
+
 ![Cat code](https://github.com/lirebanause/Stride/blob/master/images/Unbenannt.PNG)
 
 
