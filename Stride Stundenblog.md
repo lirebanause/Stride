@@ -2,7 +2,12 @@
 
 Ich werde einfach die zehn Tutorials abschließen, um einen Überblick über Stride zu bekommen. Anschließend werde ich, vorausgesetzt, dass ich dann noch Zeit habe, das ein oder andere Szenario aus dem Buch versuchen, zu programmieren.
 
-### Der Greep
+_Doppelstunden sind zu einer Stunde zusammengefasst!_
+
+
+### Erste Stunde
+
+#### Der Greep
 
 Der Greep wird in der ersten Reihe an Tutorials als Actor fungieren. An ihm werden sich die Aufgaben orientieren.
 
@@ -62,6 +67,8 @@ So soll erstens das Drehen an der Wand ein wenig mehr smooth werden und zweitens
 Ich habe erneut eine if-clause verwendet: if_isTouching(Tomato.class) und diese Funktion removeTouching(Tomato.class) eingesetzt.
 So werden die Tomaten entfernt, wenn sie berührt werden. Das war die Aufgabe. Wie ich es jedoch schaffen soll, dass der Actor die Tomaten mitnimmt, was wahrscheinlich noch eine Aufgabe sein wird, weiß ich noch nicht.
 
+### Zweite Stunde
+
 #### 7. Keyboard Control
 
 Das war tatsächlich nicht so einfach, jedoch nicht aufgrund der Komplexität des Texts, sondern aufgrund von Kleinigkeiten und aufgrund der verblüffenden Einfachheit des Programms. Nachdem ich mit Code,org gearbeitet hatte, habe ich nun nicht erwartet, einfach 
@@ -91,6 +98,7 @@ Es ist nicht, jedenfalls nicht nur die _"Fields"_-Methode nötig. Mir ist nun kl
 Wenn man nun nach 3 eingesammelten Tomaten den Actor anklickt und inspiziert, kann man die Anzahl der eingesammelten Tomaten
 (also z.B. 3) sehen.
 
+### Dritte Stunde
 
 #### 10.
 
@@ -136,6 +144,8 @@ Es gibt also einen Speicher, wenn man es so nennen möchte, indem die grundlegen
 Der Pfeilkopf nach _extends Cat_ enthält, was die _Inherited from Cat_-Commands angeht, so wie es aussieht, weitesgehend das gleiche.
 _Inherited from Actor_ jedoch scheint sehr viel umfangreicher.
 Während _Inherited from Cat_ an beiden Stellen die gleiche Anzahl an Commands beinhaltet, sind bei _extends Cat_ mit 25 Commands damit zehn mehr als in der ersten Auflistung (mit Links_Click auf den Actor).
+
+
 
 ##### Bird's eye
 
