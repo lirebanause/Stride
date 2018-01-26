@@ -165,7 +165,7 @@ Wenn ich nun _I_ drücke, wird das Ergebnis gefiltert. Alles, was mit I anfängt
 
 Dies war die letzte Aufgabe (außer: eine Methode auswählen und wieder entfernen) dieser Lernaktivität.
 
-### 9. Stunde
+### Neunte Stunde
 
 ### Lernaktivität 3 (FatCat 2.0)
 
@@ -173,4 +173,26 @@ Die Klasse _MyCat_ ist eine Art DNA der FatCat. In ihr sind alle Aktionen, die d
 
 ![Cat code](https://github.com/lirebanause/Stride/blob/master/images/Unbenannt.PNG)
 
+Durch ein einfaches Command _"eat"_ ist die Katze unbefristet ein Stück Pizza:
+
+![FatCat eating](https://github.com/lirebanause/Stride/blob/master/images/FatCat%20eating.PNG)
+
+### Zehnte Stunde
+
+Wenn man an diese Methode die Methode _sleep_ dran hängt, tanzt und schläft die Katze anschließend in einem Loop. 
+
+_Überlege dir eine eigene Routine für die Katze!_
+
+Die Katze liebt es zu tanzen, vor allem, weil das Lied, zu dem sie tanzt, einem eigentlich keine Wahl lässt. Sie tanzt also. Von einer solchen körperlichen Ertüchtigung wird man sowohl hungrig als auch müde.
+
+![FatCat Routine](https://github.com/lirebanause/Stride/blob/master/images/FatCat%20Routine.PNG)
+
+Die Katze tanzt, isst etwas, geht dann schlafen und frühstückt zuletzt, bevor sie wieder Lust auf Tanzen bekommt. So beginnt der Loop von vorn.
+
+_if-Befehle:_
+
+_Lass die Katze schlafen, falls sie müde ist._
+
+Ich erstelle eine _if-method_: _if_ isSleepy_ --> sleep
+Jedoch schläft die Katze nicht, weil sie nicht müde ist und nicht müde wird. Wie ich das ändere, weiß ich noch nicht, Ich muss irgendwie die _boolean tired --> false_ zu _true_ ändern, finde dafür jedoch noch keine passende Methode.
 
