@@ -194,5 +194,13 @@ _if-Befehle:_
 _Lass die Katze schlafen, falls sie müde ist._
 
 Ich erstelle eine _if-method_: _if_ isSleepy_ --> sleep
-Jedoch schläft die Katze nicht, weil sie nicht müde ist und nicht müde wird. Wie ich das ändere, weiß ich noch nicht, Ich muss irgendwie die _boolean tired --> false_ zu _true_ ändern, finde dafür jedoch noch keine passende Methode.
+Jedoch schläft die Katze nicht, weil sie nicht müde ist und nicht müde wird. Wie ich das ändere, weiß ich noch nicht. Ich muss irgendwie die _boolean tired --> false_ zu _true_ ändern, finde dafür jedoch noch keine passende Methode.
+
+### Elfte Stunde
+
+Nach einem bitter nötigen Blick in den Code von _Cat_ habe ich verstanden, dass _FatCats_ Handeln tatsächlich Konsequenzen hat. Wenn die Katze tanzt, wird sie müde. Das ist die Lösung.
+
+Ich habe nun versucht, den Großteil des Alltags der Katze mit _if-funktionen_ zu bestimmen. Wenn sie gelangweilt ist, tanzt sie, wenn sie müde ist, schläft sie und wenn sie hungrig ist, isst sie. Mein Problem ist, dass dieser ganze Ablauf nur einmal statt findet. Das Programm ist wie eine Kettenreaktion. Die Katze ist von Anfang an gelangweilt, wodurch diese ganze Kette ausgelöst wird.
+
+
 
