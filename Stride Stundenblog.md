@@ -7,13 +7,13 @@ _Doppelstunden sind zu einer Stunde zusammengefasst!_
 
 ## Inhaltsverzeichnis
 
-[Erste Stunde](#Erste) 
+[Erste Stunde](#1) 
 
 [Zweite Stunde](#2)
 
 [Dritte Stunde](#3) 
 
-<a name="Erste Stunde"></a>
+
 
 ### Erste Stunde
 
@@ -23,7 +23,7 @@ Der Greep wird in der ersten Reihe an Tutorials als Actor fungieren. An ihm werd
 
 #### 1. Tutorial
 
-##### 1. 
+##### 1.<a name="1"></a> 
 
 Der Actor bewegt sich in einer Endlosschleife vorwärts und variiert in den Winkeln, mit denen er, wenn er auf eine Wand trifft, wieder von dieser Wand "abprallt". Da der Actor jedoch an jeder Wand mit jeweils einem selben Winkel abprallt, liegt es nahe, dass der Code vier explizite Winkel enthält, welche in festem Ablauf mit den moveForward_Funktionen gekoppelt sind. Also:
 
