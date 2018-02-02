@@ -1,4 +1,3 @@
-**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
 
 # Stride Stundenblog
 
@@ -6,8 +5,13 @@ Ich werde einfach die zehn Tutorials abschließen, um einen Überblick über Str
 
 _Doppelstunden sind zu einer Stunde zusammengefasst!_
 
+## Inhaltsverzeichnis
 
-### Erste Stunde
+[Erste Stunde](#1)
+[Zweite Stunde](#2)
+[Dritte Stunde](#3)
+
+### Erste Stunde<a name="1"></a>
 
 #### Der Greep
 
@@ -36,7 +40,7 @@ Habe gerade erfahren, dass der ganze Code noch von Nele und Marit ist, und, dass
 
 Ohne Code passiert dementsprechend natürlich nichts.
 
-### Zweite Stunde
+### Zweite Stunde<a name="2"></a>
 
 ##### 2.
 
@@ -71,7 +75,7 @@ So soll erstens das Drehen an der Wand ein wenig mehr smooth werden und zweitens
 Ich habe erneut eine if-clause verwendet: if_isTouching(Tomato.class) und diese Funktion removeTouching(Tomato.class) eingesetzt.
 So werden die Tomaten entfernt, wenn sie berührt werden. Das war die Aufgabe. Wie ich es jedoch schaffen soll, dass der Actor die Tomaten mitnimmt, was wahrscheinlich noch eine Aufgabe sein wird, weiß ich noch nicht.
 
-### Dritte Stunde
+### Dritte Stunde<a name="3"></a>
 
 #### 7. Keyboard Control
 
