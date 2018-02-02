@@ -202,5 +202,7 @@ Nach einem bitter nötigen Blick in den Code von _Cat_ habe ich verstanden, dass
 
 Ich habe nun versucht, den Großteil des Alltags der Katze mit _if-funktionen_ zu bestimmen. Wenn sie gelangweilt ist, tanzt sie, wenn sie müde ist, schläft sie und wenn sie hungrig ist, isst sie. Mein Problem ist, dass dieser ganze Ablauf nur einmal statt findet. Das Programm ist wie eine Kettenreaktion. Die Katze ist von Anfang an gelangweilt, wodurch diese ganze Kette ausgelöst wird.
 
+### Zwölfte Stunde
 
+Wenn der Vorgang jedoch beendet wurde, 
 
