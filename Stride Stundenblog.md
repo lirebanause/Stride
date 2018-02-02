@@ -23,7 +23,7 @@ Der Greep wird in der ersten Reihe an Tutorials als Actor fungieren. An ihm werd
 
 #### 1. Tutorial
 
-##### 1.<a name="1"></a> 
+##### 1. 
 
 Der Actor bewegt sich in einer Endlosschleife vorwärts und variiert in den Winkeln, mit denen er, wenn er auf eine Wand trifft, wieder von dieser Wand "abprallt". Da der Actor jedoch an jeder Wand mit jeweils einem selben Winkel abprallt, liegt es nahe, dass der Code vier explizite Winkel enthält, welche in festem Ablauf mit den moveForward_Funktionen gekoppelt sind. Also:
 
@@ -50,7 +50,7 @@ Ohne Code passiert dementsprechend natürlich nichts.
 
 Ich habe nun eine Move-Methode eingesetzt. Folglich bewegt sich der Actor geradeaus.
 
-##### 3.
+##### 3.<a name="1"></a>
 
 Der Actor bewegt sich nun nicht mehr, sondern dreht sich um sich selbst. Welch ein Wunder.
 
