@@ -232,5 +232,8 @@ Ich habe nun versucht, den Großteil des Alltags der Katze mit _if-funktionen_ z
 
 ### Zwölfte Stunde<a name="IVZ12"></a>
 
-Wenn der Vorgang jedoch beendet wurde, 
+Nach diesem Gespräch mit Ihnen ist mir nun klar, warum (unter anderem natürlich - meine allumfassende Inkompetenz war auch nicht hilfreich) ich mich durchgehend so schwer getan habe. Dass ich eine Methode nicht nur definieren, sondern auch nochmal ausführen muss. Dieses Prinzip ist mir nicht unbekannt, trotzdem hatte ich es mental einfach nicht von Code.org/Gamelab auf Stride übertragen.
+Das war so dumm, dass es mir fast peinlich ist...
+
+
 
