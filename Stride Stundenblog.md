@@ -7,7 +7,7 @@ _Doppelstunden sind zu einer Stunde zusammengefasst!_
 
 ## Inhaltsverzeichnis
 
-[Erste Stunde](#1) 
+[Erste Stunde](#test) 
 
 [Zweite Stunde](#2)
 
@@ -50,7 +50,7 @@ Ohne Code passiert dementsprechend natürlich nichts.
 
 Ich habe nun eine Move-Methode eingesetzt. Folglich bewegt sich der Actor geradeaus.
 
-##### 3.<a name="1"></a>
+##### 3.<a name="test"></a>
 
 Der Actor bewegt sich nun nicht mehr, sondern dreht sich um sich selbst. Welch ein Wunder.
 
