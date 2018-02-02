@@ -222,7 +222,7 @@ _if-Befehle:_
 _Lass die Katze schlafen, falls sie müde ist._
 
 Ich erstelle eine _if-method_: _if_ isSleepy_ --> sleep
-Jedoch schläft die Katze nicht, weil sie nicht müde ist und nicht müde wird. Wie ich das ändere, weiß ich noch nicht. Ich muss irgendwie die _boolean tired --> false_ zu _true_ ändern, finde dafür jedoch noch keine passende Methode.
+Jedoch schläft die Katze nicht, weil sie nicht müde ist und nicht müde wird. Wie ich das ändere, weiß ich noch nicht. 
 
 ### Elfte Stunde<a name="IVZ11"></a>
 
