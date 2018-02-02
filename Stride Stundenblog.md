@@ -13,7 +13,7 @@ _Doppelstunden sind zu einer Stunde zusammengefasst!_
 
 [Dritte Stunde](#3) 
 
-<a name="1"></a>
+<a name="Erste Stunde"></a>
 
 ### Erste Stunde
 
