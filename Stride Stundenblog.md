@@ -7,13 +7,13 @@ _Doppelstunden sind zu einer Stunde zusammengefasst!_
 
 ## Inhaltsverzeichnis
 
-[Erste Stunde](#test) 
+[Erste Stunde](#IVZ1) 
 
 [Zweite Stunde](#2)
 
 [Dritte Stunde](#3) 
 
-
+<a name=IVZ1"></a>
 
 ### Erste Stunde
 
@@ -44,7 +44,7 @@ Habe gerade erfahren, dass der ganze Code noch von Nele und Marit ist, und, dass
 
 Ohne Code passiert dementsprechend natürlich nichts.
 
-### Zweite Stunde<a name="2"></a>
+### Zweite Stunde
 
 ##### 2.
 
