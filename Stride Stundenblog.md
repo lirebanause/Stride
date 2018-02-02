@@ -9,9 +9,28 @@ _Doppelstunden sind zu einer Stunde zusammengefasst!_
 
 [Erste Stunde](#IVZ1) 
 
-[Zweite Stunde](#2)
+[Zweite Stunde](#IVZ2)
 
-[Dritte Stunde](#3) 
+[Dritte Stunde](#IVZ3) 
+
+[Vierte Stunde](#IVZ4)
+
+[Fünfte Stunde](#IVZ5)
+
+[Sechste Stunde](#IVZ6)
+
+[Siebte Stunde](#IVZ7)
+
+[Achte Stunde](#IVZ8)
+
+[Neunte Stunde](#IVZ9)
+
+[Zehnte Stunde](#IVZ10)
+
+[Elfte Stunde](#IVZ11)
+
+[Zwölfte Stunde](#IVZ12)
+
 
 
 ### Erste Stunde<a name="IVZ1"></a>
@@ -43,7 +62,7 @@ Habe gerade erfahren, dass der ganze Code noch von Nele und Marit ist, und, dass
 
 Ohne Code passiert dementsprechend natürlich nichts.
 
-### Zweite Stunde
+### Zweite Stunde<a name="IVZ2"></a>
 
 ##### 2.
 
@@ -78,7 +97,7 @@ So soll erstens das Drehen an der Wand ein wenig mehr smooth werden und zweitens
 Ich habe erneut eine if-clause verwendet: if_isTouching(Tomato.class) und diese Funktion removeTouching(Tomato.class) eingesetzt.
 So werden die Tomaten entfernt, wenn sie berührt werden. Das war die Aufgabe. Wie ich es jedoch schaffen soll, dass der Actor die Tomaten mitnimmt, was wahrscheinlich noch eine Aufgabe sein wird, weiß ich noch nicht.
 
-### Dritte Stunde<a name="3"></a>
+### Dritte Stunde<a name="IVZ3"></a>
 
 #### 7. Keyboard Control
 
@@ -95,7 +114,7 @@ Man soll, wie in der Aufgabe beschrieben, das Bild des Actors ändern, verbunden
 
 ![TomatoPickUp](https://github.com/lirebanause/Stride/blob/master/images/TomatoPickUp.png)
 
-### Vierte Stunde
+### Vierte Stunde<a name="IVZ4"></a>
 
 #### 9. Tomaten zählen
 
@@ -110,7 +129,7 @@ Es ist nicht, jedenfalls nicht nur die _"Fields"_-Methode nötig. Mir ist nun kl
 Wenn man nun nach 3 eingesammelten Tomaten den Actor anklickt und inspiziert, kann man die Anzahl der eingesammelten Tomaten
 (also z.B. 3) sehen.
 
-### Fünfte Stunde
+### Fünfte Stunde<a name="IVZ5"></a>
 
 #### 10.
 
@@ -126,7 +145,7 @@ Wie man sehen kann, habe ich jeweils eine neue _if-clause_ für die beiden Bilde
 
 Damit ist die Lernaktivität #1 abgeschlossen.
 
-### Sechste Stunde
+### Sechste Stunde<a name="IVZ6"></a>
 
 ### Lernaktivität 2 (FatCat 1.0)
 
@@ -146,7 +165,7 @@ Des Weiteren kann eine Zeile durch Rechtsklick und folgend Delete gelöscht werd
 
 Verschiedene Zeilen können markiert und durch Rechtsklick und folgend "Disable" deaktiviert werden und auf selbem Wege, jedoch auf "Enable" wieder aktiviert werden.
 
-### Siebte Stunde
+### Siebte Stunde<a name="IVZ7"></a>
 
 #### Welche Methoden stehen zur Verfügung ?
 
@@ -160,7 +179,7 @@ Der Pfeilkopf nach _extends Cat_ enthält, was die _Inherited from Cat_-Commands
 _Inherited from Actor_ jedoch scheint sehr viel umfangreicher.
 Während _Inherited from Cat_ an beiden Stellen die gleiche Anzahl an Commands beinhaltet, sind bei _extends Cat_ mit 25 Commands damit zehn mehr als in der ersten Auflistung (mit Links_Click auf den Actor).
 
-### Achte Stunde
+### Achte Stunde<a name="IVZ8"></a>
 
 ##### Bird's eye
 
@@ -186,7 +205,7 @@ Durch ein einfaches Command _"eat"_ ist die Katze unbefristet ein Stück Pizza:
 
 ![FatCat eating](https://github.com/lirebanause/Stride/blob/master/images/FatCat%20eating.PNG)
 
-### Zehnte Stunde
+### Zehnte Stunde<a name="IVZ10"></a>
 
 Wenn man an diese Methode die Methode _sleep_ dran hängt, tanzt und schläft die Katze anschließend in einem Loop. 
 
@@ -205,13 +224,13 @@ _Lass die Katze schlafen, falls sie müde ist._
 Ich erstelle eine _if-method_: _if_ isSleepy_ --> sleep
 Jedoch schläft die Katze nicht, weil sie nicht müde ist und nicht müde wird. Wie ich das ändere, weiß ich noch nicht. Ich muss irgendwie die _boolean tired --> false_ zu _true_ ändern, finde dafür jedoch noch keine passende Methode.
 
-### Elfte Stunde
+### Elfte Stunde<a name="IVZ11"></a>
 
 Nach einem bitter nötigen Blick in den Code von _Cat_ habe ich verstanden, dass _FatCats_ Handeln tatsächlich Konsequenzen hat. Wenn die Katze tanzt, wird sie müde. Das ist die Lösung.
 
 Ich habe nun versucht, den Großteil des Alltags der Katze mit _if-funktionen_ zu bestimmen. Wenn sie gelangweilt ist, tanzt sie, wenn sie müde ist, schläft sie und wenn sie hungrig ist, isst sie. Mein Problem ist, dass dieser ganze Ablauf nur einmal statt findet. Das Programm ist wie eine Kettenreaktion. Die Katze ist von Anfang an gelangweilt, wodurch diese ganze Kette ausgelöst wird.
 
-### Zwölfte Stunde
+### Zwölfte Stunde<a name="IVZ12"></a>
 
 Wenn der Vorgang jedoch beendet wurde, 
 
