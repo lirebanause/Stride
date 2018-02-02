@@ -7,7 +7,7 @@ _Doppelstunden sind zu einer Stunde zusammengefasst!_
 
 ## Inhaltsverzeichnis
 
-[Erste Stunde](#1) 
+[Erste Stunde](#Erste Stunde) 
 
 [Zweite Stunde](#2)
 
