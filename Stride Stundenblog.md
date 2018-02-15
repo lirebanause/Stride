@@ -243,4 +243,31 @@ Ich habe der Katze verlangte Routine gegeben, sodass sie nun entsprechend ihrer 
 
 ![Aufgabe Neun Routine](https://github.com/lirebanause/Stride/blob/master/images/Aufgabe%20Neun%20Routine.PNG)
 
+##### Aufgabe Zehn
+
+![Aufgabe Zehn](https://github.com/lirebanause/Stride/blob/master/images/Aufgabe%20Zehn.PNG)
+
+Dieser Act-Methode nach schläft die Katze solange, wie sie allein ist. Bekommt sie Gesellschaft, rufen beide Katzen abwechselnd Hooray.
+Wenn man beide Katzen inspiziert, seiht man, dass natürlich beide verschiedene Namen haben: MyCat und MyCat2.
+Wie man jedoch in der Methode zwischen den beiden differenziert, sodass bestimmte Funktionen nur für eine der beiden gelten.
+
+
+### Little Crab
+
+##### 1. Aufgabe
+
+Der Strand ist leer. Der Quelltext der Welt sieht wie folgt aus:
+
+![little crab 1](https://github.com/lirebanause/Stride/blob/master/images/little%20crab%201.PNG)
+
+Wenn ich, wie die Aufgabe es sagt, eine Krabbe in die Welt setze, dann sieht der Quelltext so aus:
+
+![little crab](https://github.com/lirebanause/Stride/blob/master/images/little%20crab%202.PNG)
+
+Man sieht, dass der zweite Teil durch die Krabbe in den Quelltext eingefügt wurde.
+In der zweiten Zeile des neune Teils des Quelltextes sieht man die aktuelle Position der Krabbe, angegeben in x - und y-Koordinaten.
+
+##### 2. Aufgabe 
+
+Ich gebe der Krabbe die drei Methoden für _move, turn und isAtEdge_. Wie erwartet bewegt die Krabbe sich und dreht sich um 17*, wenn sie an den Rand der Welt gerät.
 
