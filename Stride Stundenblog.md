@@ -241,5 +241,6 @@ Das war so dumm, dass es mir fast peinlich ist...
 
 Ich habe der Katze verlangte Routine gegeben, sodass sie nun entsprechend ihrer Umwelt und ihrer aktuellen Einstellung agiert.
 
+![Aufgabe Neun Routine](https://github.com/lirebanause/Stride/blob/master/images/Aufgabe%20Neun%20Routine.PNG)
 
 
