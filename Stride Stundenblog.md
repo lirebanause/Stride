@@ -271,3 +271,11 @@ In der zweiten Zeile des neune Teils des Quelltextes sieht man die aktuelle Posi
 
 Ich gebe der Krabbe die drei Methoden für _move, turn und isAtEdge_. Wie erwartet bewegt die Krabbe sich und dreht sich um 17*, wenn sie an den Rand der Welt gerät.
 
+Stunde
+
+### Kleines Zwischenprojekt
+
+Ich möchte mich für ein paar Informatikstunden von den Aufgaben lösen und selbst ein kleines Fangspiel programmieren, weil ich mich sicherer mit dem Programm fühle.
+Das Spiel selbst ist nicht außerordentlich kompliziert. Man selsbt steuert die Krabbe, muss Würmer fressen und darf nicht von Hummern gefangen werden, denn sonst ist das Spiel beendet.
+
+
