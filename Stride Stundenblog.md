@@ -235,7 +235,7 @@ Ich habe nun versucht, den Großteil des Alltags der Katze mit _if-funktionen_ z
 Nach diesem Gespräch mit Ihnen ist mir nun klar, warum (unter anderem natürlich - meine allumfassende Inkompetenz war auch nicht hilfreich) ich mich durchgehend so schwer getan habe. Dass ich eine Methode nicht nur definieren, sondern auch nochmal ausführen muss. Dieses Prinzip ist mir nicht unbekannt, trotzdem hatte ich es mental einfach nicht von Code.org/Gamelab auf Stride übertragen.
 Das war so dumm, dass es mir fast peinlich ist...
 
-### Dreizehnte Stunde
+### 13. Stunde
 
 ##### Aufgabe Neun
 
@@ -271,11 +271,21 @@ In der zweiten Zeile des neune Teils des Quelltextes sieht man die aktuelle Posi
 
 Ich gebe der Krabbe die drei Methoden für _move, turn und isAtEdge_. Wie erwartet bewegt die Krabbe sich und dreht sich um 17*, wenn sie an den Rand der Welt gerät.
 
-Stunde
+### 14. Stunde
 
 ### Kleines Zwischenprojekt
 
 Ich möchte mich für ein paar Informatikstunden von den Aufgaben lösen und selbst ein kleines Fangspiel programmieren, weil ich mich sicherer mit dem Programm fühle.
 Das Spiel selbst ist nicht außerordentlich kompliziert. Man selsbt steuert die Krabbe, muss Würmer fressen und darf nicht von Hummern gefangen werden, denn sonst ist das Spiel beendet.
+
+![Fangspiel](https://github.com/lirebanause/Stride/blob/master/images/Fangspiel.PNG)
+
+So sieht momentan der Code der Krabbe aus:
+
+![CrabCode](https://github.com/lirebanause/Stride/blob/master/images/CrabCode.PNG)
+
+Und so der Code der Hummer:
+
+![LobsterCode](https://github.com/lirebanause/Stride/blob/master/images/LobsterCode.PNG)
 
 
