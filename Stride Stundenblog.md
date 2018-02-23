@@ -292,4 +292,6 @@ Und so der Code der Hummer:
 
 ![LobsterCode](https://github.com/lirebanause/Stride/blob/master/images/LobsterCode.PNG)
 
+Das Ändern des Aussehens der Krabbe zu ändern erweist sich als schwerer als gedacht, weil das Ändern der Bilder _crab.png_ und _crab2.png_ nur ein Mal vollzogen wird, während es natürlich eigentlich im Loop ablaufen sollte. Ich habe einen while-loop ausprobiert und auf die condition "isKeyDown" 
+
 
