@@ -31,6 +31,10 @@ _Doppelstunden sind zu einer Stunde zusammengefasst!_
 
 [Zwölfte Stunde](#IVZ12)
 
+[13. Stunde](#IVZ13)
+
+[14. Stunde](#IVZ14)
+
 
 
 ### Erste Stunde<a name="IVZ1"></a>
@@ -235,7 +239,7 @@ Ich habe nun versucht, den Großteil des Alltags der Katze mit _if-funktionen_ z
 Nach diesem Gespräch mit Ihnen ist mir nun klar, warum (unter anderem natürlich - meine allumfassende Inkompetenz war auch nicht hilfreich) ich mich durchgehend so schwer getan habe. Dass ich eine Methode nicht nur definieren, sondern auch nochmal ausführen muss. Dieses Prinzip ist mir nicht unbekannt, trotzdem hatte ich es mental einfach nicht von Code.org/Gamelab auf Stride übertragen.
 Das war so dumm, dass es mir fast peinlich ist...
 
-### 13. Stunde
+### 13. Stunde<a name="IVZ13"></a>
 
 ##### Aufgabe Neun
 
@@ -271,7 +275,7 @@ In der zweiten Zeile des neune Teils des Quelltextes sieht man die aktuelle Posi
 
 Ich gebe der Krabbe die drei Methoden für _move, turn und isAtEdge_. Wie erwartet bewegt die Krabbe sich und dreht sich um 17*, wenn sie an den Rand der Welt gerät.
 
-### 14. Stunde
+### 14. Stunde<a name="IVZ14"></a>
 
 ### Kleines Zwischenprojekt
 
