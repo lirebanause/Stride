@@ -35,6 +35,12 @@ _Doppelstunden sind zu einer Stunde zusammengefasst!_
 
 [14. Stunde](#IVZ14)
 
+[15. Stunde](#IVZ15)
+
+[16. Stunde](#IVZ16)
+
+[17. Stunde](#IVZ17)
+
 
 
 ### Erste Stunde<a name="IVZ1"></a>
@@ -292,6 +298,19 @@ Und so der Code der Hummer:
 
 ![LobsterCode](https://github.com/lirebanause/Stride/blob/master/images/LobsterCode.PNG)
 
-Das Ändern des Aussehens der Krabbe zu ändern erweist sich als schwerer als gedacht, weil das Ändern der Bilder _crab.png_ und _crab2.png_ nur ein Mal vollzogen wird, während es natürlich eigentlich im Loop ablaufen sollte. Ich habe einen while-loop ausprobiert und auf die condition "isKeyDown" 
+Das Ändern des Aussehens der Krabbe zu ändern erweist sich als schwerer als gedacht, weil das Ändern der Bilder _crab.png_ und _crab2.png_ nur ein Mal vollzogen wird, während es natürlich eigentlich im Loop ablaufen sollte. Ich habe einen while-loop ausprobiert und auf die condition "isKeyDown" ausgerichtet.
+
+### 15. Stunde
+
+Der Versuch meiner letzten Stunde hat natürlich nicht funktioniert. Tatsächlich hat nichts funktioniert, was ich ausprobiert habe.
+Den Würmern habe ich noch ein Extra verpasst. Statt einfach aufgefresssen zu werden, erscheint ein neuer Wurm an einer willlürlichen Stelle in der Welt, jedes Mal, wenn ein Wurm gefressen wird. So wird das Spiel am Laufen gehalten. Ich werde wahrscheinlich noch einen Counter für aufgefressene Würmer einsetzen, ohne ein Limit jedoch. Man soll einfach wissen, wie weit man es geschafft.
+
+### 16. Stunde 
+
+Ich versuche immer noch, die Crab optisch laufen lassen. Als ich erneut nach 20 Minuten aufgeben musste, habe ich deprimiert noch Feinheiten an der Steuerung der Crab und am Movement der Lobsters verändert, um das Gameplay aufzuwerten.
+
+### 17. Stunde
+
+Schließlich habe ich im Internet eine letzte Chance gefunden. Eine if-else-Methode. Während ich diese am Verstehen und Übernehmen war, kamen Sie. Sie haben dann, wie Sie sich sicher noch erinnern, ein entsprechendes Gegenstück aus dem Buch vorgelegt. Dieses habe ich in den Code der Crab eingefügt. Das Resultat:
 
 
