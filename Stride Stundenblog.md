@@ -313,4 +313,6 @@ Ich versuche immer noch, die Crab optisch laufen lassen. Als ich erneut nach 20 
 
 Schließlich habe ich im Internet eine letzte Chance gefunden. Eine if-else-Methode. Während ich diese am Verstehen und Übernehmen war, kamen Sie. Sie haben dann, wie Sie sich sicher noch erinnern, ein entsprechendes Gegenstück aus dem Buch vorgelegt. Dieses habe ich in den Code der Crab eingefügt. Das Resultat:
 
+### 18. Stunde
 
+Ich versuche den Counter zu installieren, was jedoch relativ schwierig (für mich) ist. Zum einen ist das Programmieren des Quelltexts für den Counter schwierig, zum anderen die virtuelle Verbindung von Counter, CrabWorld und Crab. Ich finde es schwierig, die Erklärung für Greenfoot auf Stride zu übertragen, weil man in Stride für alles ein "Hülle" haben muss, während ich jedoch nicht immer weiß, was für eine Art von Methode/ Ausfürung man nutzen soll.
