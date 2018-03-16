@@ -12,3 +12,8 @@ Gesteuert wird der Greep durch _rechts/links-Steuerung_ mit den Pfeiltasten der 
 
 ![KeyControling](https://github.com/lirebanause/Stride/blob/master/images/KeyControlling%20(edited).PNG)
 
+
+Fangspiel:
+
+Das Spiel besteht aus dem Prinzip, so viele Würmer zu fressen, ohne selbst von Hummern gefressen zu werden. Man selbst steuert eine Krabbe. Der Spielstand (in aufgefressenen Würmern) wird mitgezählt, sodass man sich mit anderen oder sich selbst im Wettkampf vergleichen kann. Das Spiel hat kein Start/ Ziel, und geht unendlich, solange man nicht gefressen wird.
+
