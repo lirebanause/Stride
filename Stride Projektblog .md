@@ -13,7 +13,7 @@ Gesteuert wird der Greep durch _rechts/links-Steuerung_ mit den Pfeiltasten der 
 ![KeyControling](https://github.com/lirebanause/Stride/blob/master/images/KeyControlling%20(edited).PNG)
 
 
-Fangspiel: CrabScrap
+## Fangspiel: CrabScrap
 
 Das Spiel besteht aus dem Prinzip, so viele Würmer zu fressen, ohne selbst von Hummern gefressen zu werden. Man selbst steuert eine Krabbe. Der Spielstand (in aufgefressenen Würmern) wird mitgezählt, sodass man sich mit anderen oder sich selbst im Wettkampf vergleichen kann. Das Spiel hat kein Start/ Ziel, und geht unendlich, solange man nicht gefressen wird.
 
@@ -28,5 +28,9 @@ Spielspaß ist durch zwei Faktoren garantiert:
    Die Feinde, die Hummer, sind durch Zufall gesteuert. So ist es dem Spieler unmöglich, das Geschehen vorherzusehen. Die Hummer könnten 
    jeden Moment umdrehen. Man schwebt jede Sekunde in Gefahr und man weiß nie, wann es endet. Dieser "Thrill" ist ein maßgebliches
    Element des Spiels.
+   
+![Counter ProjBlog](https://github.com/lirebanause/Stride/blob/master/images/Counter%20ProjBlog.PNG)
+
+In diesem Bild ist der Counter hervorgehoben, der die Anzahl der gefressenen Würmer anzeigen soll.
    
 
