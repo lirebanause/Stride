@@ -300,19 +300,23 @@ Und so der Code der Hummer:
 
 Das Ändern des Aussehens der Krabbe zu ändern erweist sich als schwerer als gedacht, weil das Ändern der Bilder _crab.png_ und _crab2.png_ nur ein Mal vollzogen wird, während es natürlich eigentlich im Loop ablaufen sollte. Ich habe einen while-loop ausprobiert und auf die condition "isKeyDown" ausgerichtet.
 
-### 15. Stunde
+### 15. Stunde<a name="IVZ15"></a>
 
 Der Versuch meiner letzten Stunde hat natürlich nicht funktioniert. Tatsächlich hat nichts funktioniert, was ich ausprobiert habe.
 Den Würmern habe ich noch ein Extra verpasst. Statt einfach aufgefresssen zu werden, erscheint ein neuer Wurm an einer willlürlichen Stelle in der Welt, jedes Mal, wenn ein Wurm gefressen wird. So wird das Spiel am Laufen gehalten. Ich werde wahrscheinlich noch einen Counter für aufgefressene Würmer einsetzen, ohne ein Limit jedoch. Man soll einfach wissen, wie weit man es geschafft.
 
-### 16. Stunde 
+### 16. Stunde<a name="IVZ16"></a>
 
 Ich versuche immer noch, die Crab optisch laufen lassen. Als ich erneut nach 20 Minuten aufgeben musste, habe ich deprimiert noch Feinheiten an der Steuerung der Crab und am Movement der Lobsters verändert, um das Gameplay aufzuwerten.
 
-### 17. Stunde
+### 17. Stunde<a name="IVZ17"></a>
 
 Schließlich habe ich im Internet eine letzte Chance gefunden. Eine if-else-Methode. Während ich diese am Verstehen und Übernehmen war, kamen Sie. Sie haben dann, wie Sie sich sicher noch erinnern, ein entsprechendes Gegenstück aus dem Buch vorgelegt. Dieses habe ich in den Code der Crab eingefügt. Das Resultat:
 
-### 18. Stunde
+### 18. Stunde<a name="IVZ18"></a>
 
 Ich versuche den Counter zu installieren, was jedoch relativ schwierig (für mich) ist. Zum einen ist das Programmieren des Quelltexts für den Counter schwierig, zum anderen die virtuelle Verbindung von Counter, CrabWorld und Crab. Ich finde es schwierig, die Erklärung für Greenfoot auf Stride zu übertragen, weil man in Stride für alles ein "Hülle" haben muss, während ich jedoch nicht immer weiß, was für eine Art von Methode/ Ausfürung man nutzen soll.
+
+### 19. Stunde<a name="IVZ19"></a>
+
+Ich glaube nicht, dass ich den Counter noch in der verbleibenden Zeit fertigstellen kann. Ich werde mich jetzt darauf konzentrieren, den Projektblog zu schreiben. Manchmal verfalle ich im ProjBlog etwas in einen "Verkäufer-Ton", aber Sie meinten ja, dass ein solcher Blog zur Repräsentation des Produkts für potenzielle Käufer gedacht ist, also ist das ja nicht schlimm.
