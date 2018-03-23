@@ -13,7 +13,20 @@ Gesteuert wird der Greep durch _rechts/links-Steuerung_ mit den Pfeiltasten der 
 ![KeyControling](https://github.com/lirebanause/Stride/blob/master/images/KeyControlling%20(edited).PNG)
 
 
-Fangspiel:
+Fangspiel: CrabScrap
 
 Das Spiel besteht aus dem Prinzip, so viele Würmer zu fressen, ohne selbst von Hummern gefressen zu werden. Man selbst steuert eine Krabbe. Der Spielstand (in aufgefressenen Würmern) wird mitgezählt, sodass man sich mit anderen oder sich selbst im Wettkampf vergleichen kann. Das Spiel hat kein Start/ Ziel, und geht unendlich, solange man nicht gefressen wird.
+
+Man selbst steuert also die Krabbe, welche man mit der Pfeiltasten bewegen kann. 
+Spielspaß ist durch zwei Faktoren garantiert:
+
+1) Herausforderung: 
+   Herausforderung ist das wichtigste Element eines erfolgreichen Spiels. CrabScrap liefert genau dies. Da das Spiel ohne Versagen des
+   Spielers kein Ende hat, kann man sich immer neue Herausforderungen stellen, um immer weiter zu kommen.
+   
+2) Wandelbarkeit, Unverhersehbarkeit:
+   Die Feinde, die Hummer, sind durch Zufall gesteuert. So ist es dem Spieler unmöglich, das Geschehen vorherzusehen. Die Hummer könnten 
+   jeden Moment umdrehen. Man schwebt jede Sekunde in Gefahr und man weiß nie, wann es endet. Dieser "Thrill" ist ein maßgebliches
+   Element des Spiels.
+   
 
